@@ -17,3 +17,4 @@ This is a long video! However, it offers a great review of the OO concepts that 
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-object-orientation-video-review'>OO Ruby Object Orientation Video Review</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Overview</p>
